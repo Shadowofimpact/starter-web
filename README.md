@@ -13,3 +13,5 @@ test2
 
 ### Copyright
 Git.training
+
+### Merging test

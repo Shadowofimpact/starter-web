@@ -13,6 +13,7 @@ test1
 test2
 
 ### Copyright
-Git.training
+Git.training All rights.
 
 ### Merging test
+
